@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209472904436",
+    "project_id": "w-sharme-beauty",
+    "storage_bucket": "w-sharme-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209472904436:android:70ce9e28b89a3dd407d2a1",
+        "android_client_info": {
+          "package_name": "com.example.w_sharme_beauty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnp86L-EM9q3L21mFJ5f90Qpb4EBqOcXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

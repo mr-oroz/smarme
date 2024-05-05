@@ -1,0 +1,17 @@
+<svg width="18.000000" height="18.000000" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_48_1120" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image48_112_0" transform="matrix(0.007813,0,0,0.007813,0,0)"/>
+		</pattern>
+		<image id="image48_112_0" width="128.000000" height="128.000000" xlink:href="data:image/png;base64,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"/>
+	</defs>
+	<mask id="mask48_112" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="18.000000" height="18.000000">
+		<rect id="Rectangle 26" width="18.000000" height="18.000000" fill="url(#pattern_48_1120)" fill-opacity="1.000000"/>
+	</mask>
+	<g mask="url(#mask48_112)">
+		<rect id="Rectangle 31" x="-1.000000" y="-4.000000" width="29.000000" height="27.000000" fill="#A2A8B0" fill-opacity="1.000000"/>
+	</g>
+</svg>
